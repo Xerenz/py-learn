@@ -1,5 +1,5 @@
 '''Build a notebook app
- 
+
 Primary objective - 
 learning OOP design concept
 learning python syntax.'''
@@ -57,3 +57,10 @@ to edit a note.'''
 
     
 			
+=======
+ Primary objective - 
+ learning OOP design concept
+ learning python syntax.'''
+
+ 			
+>>>>>>> a9259517b114fbafd1863e9f21e78041fe7a93ed
