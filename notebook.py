@@ -56,11 +56,4 @@ to edit a note.'''
                 if note.match(filters)]
 
     
-			
-=======
- Primary objective - 
- learning OOP design concept
- learning python syntax.'''
-
- 			
->>>>>>> a9259517b114fbafd1863e9f21e78041fe7a93ed
+		
