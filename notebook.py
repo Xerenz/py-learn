@@ -51,16 +51,16 @@ to edit a note.'''
             return True
         return False
 
+    def modify_tags(self, search_id, tags):
+    	note = self._find_note(search_id)
+
+    	if note:
+    		note.tags = tags
+    		return True
+    	return False
+
     def search(self, filters):
         return [note for note in self.notes
                 if note.match(filters)]
-
     
-			
-=======
- Primary objective - 
- learning OOP design concept
- learning python syntax.'''
-
- 			
->>>>>>> a9259517b114fbafd1863e9f21e78041fe7a93ed
+		
